@@ -108,8 +108,6 @@ setuptools==65.6.3
 shapely==2.0.2
 six==1.16.0
 sklearn==0.0.post4
-snowflake==0.0.3
-snowflake-connector-python==3.0.3
 stack-data==0.6.2
 tensorboard==2.10.0
 tensorboard-data-server==0.6.1

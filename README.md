@@ -1,8 +1,6 @@
 Machine Learning in materno-fetal ultrasound images for early detection of late-onset placental insufficiency
 =
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deep-convolutional-autoencoders-for/mri-reconstruction-on-ixi-dataset)](https://paperswithcode.com/sota/mri-reconstruction-on-ixi-dataset?p=deep-convolutional-autoencoders-for)
-
 [![made-with-python](https://img.shields.io/badge/Coded%20with-Python-21496b.svg?style=for-the-badge&logo=Python)](https://www.python.org/)
 [![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=for-the-badge&logo=Latex)](https://www.latex-project.org/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/gwendysyd/Placenta-Insufficiency-Classification?style=for-the-badge&logo=Github)

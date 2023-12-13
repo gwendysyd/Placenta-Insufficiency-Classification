@@ -17,7 +17,7 @@ Machine Learning in materno-fetal ultrasound images for early detection of late-
 * **Gwendolin Herrera Carballido** - [gherrerac@uoc.edu](mailto:gherrerac@uoc.edu)
 
 #### Tutor: 
-* **Xavier Paolo Burgos Artizzu** - [bkanber@uoc.edu](mailto:xburgosa@uoc.edu)
+* **Xavier Paolo Burgos Artizzu** - [xburgosa@uoc.edu](mailto:xburgosa@uoc.edu)
 
 ***************
 * [Report (X pages)](http://hdl.handle.net/)

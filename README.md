@@ -7,7 +7,7 @@ Machine Learning in materno-fetal ultrasound images for early detection of late-
 ![Github code size](https://img.shields.io/github/languages/code-size/gwendysyd/Placenta-Insufficiency-Classification?style=for-the-badge&logo=Github)
 ![GitHub license](https://img.shields.io/github/license/gwendysyd/Placenta-Insufficiency-Classification?style=for-the-badge&logo=Github)
 
-###### Deep Autoencoder for brain MRI
+###### Ultrasound images binary classification for late-onset placental insufficiency
 
 ***********
 

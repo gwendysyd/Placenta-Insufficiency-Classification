@@ -1,14 +1,13 @@
-Deep Convolutional Autoencoders for reconstructing magnetic resonance images of the healthy brain
+Machine Learning in materno-fetal ultrasound images for early detection of late-onset placental insufficiency
 =
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deep-convolutional-autoencoders-for/mri-reconstruction-on-ixi-dataset)](https://paperswithcode.com/sota/mri-reconstruction-on-ixi-dataset?p=deep-convolutional-autoencoders-for)
 
 [![made-with-python](https://img.shields.io/badge/Coded%20with-Python-21496b.svg?style=for-the-badge&logo=Python)](https://www.python.org/)
 [![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=for-the-badge&logo=Latex)](https://www.latex-project.org/)
-![GitHub repo size](https://img.shields.io/github/repo-size/AdrianArnaiz/Brain-MRI-Denoiser-Autoencoder?style=for-the-badge&logo=Github)
-![Github code size](https://img.shields.io/github/languages/code-size/AdrianArnaiz/Brain-MRI-Denoiser-Autoencoder?style=for-the-badge&logo=Github)
-![GitHub license](https://img.shields.io/github/license/AdrianArnaiz/Brain-MRI-Denoiser-Autoencoder?style=for-the-badge&logo=Github)
-![Github Follow](https://img.shields.io/github/followers/AdrianArnaiz?style=social&label=Follow)
+![GitHub repo size](https://img.shields.io/github/repo-size/gwendysyd/Placenta-Insufficiency-Classification?style=for-the-badge&logo=Github)
+![Github code size](https://img.shields.io/github/languages/code-size/gwendysyd/Placenta-Insufficiency-Classification?style=for-the-badge&logo=Github)
+![GitHub license](https://img.shields.io/github/license/gwendysyd/Placenta-Insufficiency-Classification?style=for-the-badge&logo=Github)
 
 ###### Deep Autoencoder for brain MRI
 
@@ -17,15 +16,14 @@ Deep Convolutional Autoencoders for reconstructing magnetic resonance images of 
 **Master's Thesis. Master's in Data Science at Universitat Oberta de Catalunya.**
 
 #### Author
-* **Adrián Arnaiz Rodríguez** - [aarnaizr@uoc.edu](mailto:aarnaizr@uoc.edu)
+* **Gwendolin Herrera Carballido** - [gherrerac@uoc.edu](mailto:gherrerac@uoc.edu)
 
 #### Tutor: 
-* **Dr. Baris Kanber** - [bkanber@uoc.edu](mailto:bkanber@uoc.edu)
+* **Xavier Paolo Burgos Artizzu** - [bkanber@uoc.edu](mailto:xburgosa@uoc.edu)
 
 ***************
-* [Report (82 pages)](http://hdl.handle.net/10609/127059)
-* [Slides (20 slides)](https://github.com/AdrianArnaiz/Brain-MRI-Autoencoder/blob/master/doc/PPT_AdrianArnaiz_Deep%20Convolutional%20Autoencoders%20for%20reconstructing%20magnetic%20resonance%20images.pdf)
-* [Papers with code](https://paperswithcode.com/paper/deep-convolutional-autoencoders-for)
+* [Report (X pages)](http://hdl.handle.net/)
+* [Slides (X slides)](https://github.com/gwendysyd/Placenta-Insufficiency-Classification/blob/master/doc/PPT_.pdf)
 ***************
 
 ## Convolutional Autoencoder Architectures used

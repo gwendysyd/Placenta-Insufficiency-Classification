@@ -24,7 +24,7 @@ Machine Learning in materno-fetal ultrasound images for early detection of late-
 * [Slides (X slides)](https://github.com/gwendysyd/Placenta-Insufficiency-Classification/blob/master/doc/PPT_.pdf)
 ***************
 
-## Convolutional Autoencoder Architectures used
+## Deep Learning Architectures used
 ![](ArchitecturesDiagram.svg)
 
 #### Experiments:

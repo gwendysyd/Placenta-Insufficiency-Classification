@@ -1,0 +1,5 @@
+﻿,AUC,F1-pos,F1-neg
+VGG16-TL,0.99,0.98,0.99
+VGG16-no-TL,1,0.97,0.99
+ResNet18-TL,1,0.98,0.99
+ResNet18-no-TL,1,0.99,1

@@ -1,7 +1,7 @@
 # **Experiment Plan: Applying Different Architectures to Placenta Ultrasound Images Datasets**
 
 ## **Purpose**
-This experiment aims to systematically compare the performance of various neural network architectures on the same image dataset. By employing both basic and advanced models, with and without transfer learning, we aim to identify the most effective approaches for image analysis in this context.
+This experiment aims to systematically compare the performance of various neural network architectures on the same image dataset. By employing both basic and advanced models with different architecture sizes, with and without transfer learning, we aim to identify the most effective approaches for image analysis in this context.
 
 ## **Datasets for Analysis**
 - **C3 all planes**: At least one of three conditions (CIR, preeclampsia, birth weight percentile <3) is present.

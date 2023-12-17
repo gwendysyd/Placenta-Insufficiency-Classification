@@ -24,11 +24,8 @@ Machine Learning in materno-fetal ultrasound images for early detection of late-
 * [Slides (X slides)](https://github.com/gwendysyd/Placenta-Insufficiency-Classification/blob/master/doc/...pdf)
 ***************
 
-## Deep Learning Architectures used
-![](ArchitecturesDiagram.svg)
-
 #### Experiments:
-* **With Data Augmentation**:
+* **Deep Learning**:
     * ***2 experiments (MSE and DSSIM Loss) for each of the following architectures:***
         * Shallow residual autoencoder (full-pre)
         * Shallow residual autoencoder (full-pre) + L2 reg.
@@ -37,7 +34,7 @@ Machine Learning in materno-fetal ultrasound images for early detection of late-
         * Myronenko Autoencoder
         * **RESIDUAL-UNET** (proposed new improved architecture)
 
-* Without Data Augmentation:
+* Computer Vision:
     * MSE Loss
         * Shallow residual autoencoder (original)
         * Shallow residual autoencoder (full-pre)
@@ -63,11 +60,3 @@ Machine Learning in materno-fetal ultrasound images for early detection of late-
 | **Myronenko CAE**         | *DSSIM*            | *No*             | 4.39e-03             | 6.69e-04                                  | *4.31e-03*                                | 32.1             |
 | **Skip connection CAE**  | *DSSIM*            | *Yes*            | 4.82e-03             | 4.08e-04                                  | *4.38e-03*                                | 34.2             |
 | **Skip connection CAE**   | *DSSIM*            | *No*             | 4.90e-03             | 4.57e-04                                  | *4.71e-03*                                | 33.7             |
-
-### Quanlitative Results
-![](doc/figs/daug-dssim-qualitative.png)
-
-### Char of test metrics and dependent sample t-test significances
-![](doc/figs/all_test_metrics.png)
-
-![](doc/figs/ttest-pvals.png)

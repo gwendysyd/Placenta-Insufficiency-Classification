@@ -26,22 +26,21 @@ Machine Learning in materno-fetal ultrasound images for early detection of late-
 
 #### Experiments:
 * **Deep Learning**:
-    * ***2 experiments (MSE and DSSIM Loss) for each of the following architectures:***
-        * Shallow residual autoencoder (full-pre)
-        * Shallow residual autoencoder (full-pre) + L2 reg.
-        * Skip connection autoencoder
-        * Skip connection autoencoder + L2 reg.
-        * Myronenko Autoencoder
-        * **RESIDUAL-UNET** (proposed new improved architecture)
+    * ***Architectures:***
+        * Custom ANN (Artificial Neural Network)
+        * VGG16
+        * MobileNet
+        * ResNet50
+        * ResNet18
 
-* Computer Vision:
-    * MSE Loss
-        * Shallow residual autoencoder (original)
-        * Shallow residual autoencoder (full-pre)
-        * Shallow residual autoencoder (full-pre) + L2 reg.
-        * Skip connection autoencoder
-        * Myronenko Autoencoder
-        * Myronenko Autoencoder + L2 reg.
+* **Computer Vision**:
+    * ***Feature extraction:***
+        * HOG (Histogram of Oriented Gradients)
+        * GLCM (Gray Level Co-occurrence Matrix)
+    * ***Classifiers:***
+        * SVC (Support Vector Classifier)
+        * XGBOOST (eXtreme Gradient Boosting)
+        * Logistic Regression
 
 ***************
 ## Results

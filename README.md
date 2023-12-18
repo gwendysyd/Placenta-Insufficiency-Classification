@@ -48,7 +48,6 @@ Machine Learning in materno-fetal ultrasound images for early detection of late-
 | Criteria                                     | AUC  | F1-Score PoC | Accuracy | Sensitivity | Specificity | PPV   | NPV   | PLR   | NLR   |
 |---------------------------------------------------|------|--------------|----------|-------------|-------------|-------|-------|-------|-------|
 | MobileNet-TL-no-CW	                          |0.79	| 0.42 |	0.93	| 0.33	| 0.98	| 0.57	| 0.95	| 17	| 0.68 |
-
 | CIR | 0.74 | 0.40          | 0.90      | 0.50         | 0.93        | 0.33  | 0.96  | 6.75  | 0.54  |
 | Preeclampsia    | 0.76 | 0.53         | 0.96     | 0.44        | 0.99        | 0.67  | 0.97  | 34.67 | 0.56  |
 | LBS or CIR or Preeclampsia           | 0.63 | 0.39         | 0.74     | 0.58        | 0.77        | 0.30   | 0.92  | 2.51  | 0.54  |

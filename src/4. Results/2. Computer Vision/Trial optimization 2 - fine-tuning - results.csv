@@ -7,5 +7,5 @@ CIR-SVC-noaug-poly-anterior,0.22,0.47,0.12,0.92,0.11,0.96,0.14,0.95,2.94,0.92
 CIR-SVC-noaug-linear-anterior,0,0.55,0,0.95,0,1,0,0.95,0,1
 PRE-SVC-noaug-poly-anterior,0.56,0.76,0.53,0.96,0.44,0.99,0.67,0.97,34.67,0.56
 PRE-SVC-noaug-linear-anterior,0.33,0.75,0.22,0.92,0.22,0.96,0.22,0.96,4.95,0.81
-PESO-SVC-noaug-poly-anterior,0.23,0.53,0.2,0.71,0.2,0.82,0.2,0.82,1.12,0.97
-PESO-SVC-noaug-linear-anterior,0.13,0.45,0.11,0.7,0.1,0.84,0.12,0.81,0.61,1.08
+LBW-SVC-noaug-poly-anterior,0.23,0.53,0.2,0.71,0.2,0.82,0.2,0.82,1.12,0.97
+LBW-SVC-noaug-linear-anterior,0.13,0.45,0.11,0.7,0.1,0.84,0.12,0.81,0.61,1.08

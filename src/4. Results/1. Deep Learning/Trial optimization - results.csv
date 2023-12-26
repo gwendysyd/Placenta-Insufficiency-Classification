@@ -1,19 +1,9 @@
-﻿Criteria,Model Name,AUC,F1-Score Positive Class,Accuracy,Sensitivity,Specificity,PPV,NPV,PLR,NLR
-C3,MobileNet-no-TL-anterior,0.61,0.25,0.14,1,0,0.14,,1,
-C3,MobileNet-no-TL-posterior,0.58,0.37,0.68,0.53,0.71,0.29,0.88,1.84,0.66
-C3,MobileNet-no-TL-tuned,0.38,0.25,0.14,1,0,0.14,,1,
-CIR,VGG16-TL-anterior,0.74,0.4,0.9,0.5,0.93,0.33,0.96,6.75,0.54
-CIR,VGG16-TL-posterior,0.79,0.4,0.86,0.44,0.91,0.36,0.93,4.76,0.61
-CIR,VGG16-TL-tuned,0.55,0.23,0.6,0.56,0.6,0.14,0.92,1.39,0.74
-LBW,MobileNet-TL-no-CW-anterior,0.21,0.18,0.1,1,0,0.1,,1,
-LBW,MobileNet-TL-CW-anterior,0.54,0.22,0.84,0.22,0.91,0.22,0.91,2.57,0.85
-LBW,MobileNet-TL-no-CW-posterior,0.85,0.4,0.86,0.67,0.87,0.29,0.97,5.2,0.38
-LBW,MobileNet-TL-CW-posterior,0.44,0.13,0.07,1,0,0.07,,1,
-LBW,MobileNet-TL-tuned,0.26,0.14,0.07,1,0,0.07,,1,
-LBW,ANN,0.8,0.43,0.85,0.75,0.86,0.3,0.98,5.46,0.29
-LBW,ANN-anterior,0.38,0.19,0.24,0.89,0.17,0.11,0.93,1.07,0.64
-LBW,ANN-posterior,0.31,0.19,0.17,1,0.07,0.11,1,1.08,0
-LBW,ANN-tuned,0.8,0.43,0.92,0.42,0.96,0.45,0.95,10.63,0.61
-PRE,VGG16-no-TL-anterior,0.44,0.16,0.38,0.83,0.35,0.09,0.97,1.27,0.48
-PRE,VGG16-no-TL-posterior,0.58,0.25,0.52,0.78,0.49,0.15,0.95,1.52,0.46
-PRE,VGG16-no-TL-tuned,0.32,0.13,0.07,1,0,0.07,,1,
+Criteria,Model Name,Max Sensitivity at Specificity=1-Prevalence,AUC,F1-Score Positive Class,Accuracy,Specificity,PPV,NPV,PLR,NLR
+C3,ResNet18-TL-no-CW-anterior,0.11,0.35,0.07,0.67,0.83,0.08,0.76,0.33,1.13
+C3,ResNet18-TL-no-CW-tuned,0.24,0.47,0.23,0.67,0.79,0.23,0.79,1.08,0.98
+LBW,ANN-anterior,0.28,0.58,0.27,0.75,0.88,0.33,0.81,1.92,0.88
+LBW,ANN-tuned,0.28,0.54,0.25,0.75,0.85,0.24,0.86,1.7,0.87
+PRE,ResNet18-TL-no-CW-anterior,0,0.53,0,0.93,1,0,0.93,,1
+PRE,ResNet18-TL-no-CW-tuned,0,0.4,0,0.93,1,0,0.93,,1
+CIR,ANN-anterior,0.17,0.63,0,0.91,0.98,0,0.93,0,1.03
+CIR,ANN-tuned,0.25,0.5,0.16,0.87,0.93,0.15,0.93,2.33,0.9

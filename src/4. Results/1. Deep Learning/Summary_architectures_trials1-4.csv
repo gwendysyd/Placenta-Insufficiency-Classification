@@ -1,7 +1,21 @@
-,LBW,LBW,CIR,CIR,PRE,PRE,C3,C3
-,AVG AUC,AVG F1 POS,AVG AUC,AVG F1 POS,AVG AUC,AVG F1 POS,AVG AUC,AVG F1 POS
-ANN,0.6,0.15,0.43,0.18,0.46,0.18,0.4,0.25
-VGG16,0.58,0.19,0.48,0.17,0.43,0.14,0.45,0.26
-ResNet50,0.57,0.18,0.48,0.16,0.4,0.15,0.46,0.26
-MobileNet,0.66,0.27,0.51,0.14,0.38,0.15,0.46,0.26
-ResNet18,0.52,0.18,0.53,0.21,0.39,0.14,0.51,0.28
+Criteria,Architecture,Configuration,"Best Sensitivity"
+C3,ANN,"[CW, AUG]",0.29
+C3,VGG16,"[TL, AUG]",0.32
+C3,ResNet50,"[TL, CW]",0.32
+C3,MobileNet,"[CW, AUG]",0.33
+C3,ResNet18,"[TL, AUG]",0.36
+LBW,ANN,[],0.29
+LBW,VGG16,"[TL(br), AUG]",0.26
+LBW,ResNet50,"[TL, CW]",0.24
+LBW,MobileNet,"[AUG]",0.28
+LBW,ResNet18,"[TL(br), CW, AUG]",0.24
+PRE,ANN,[],0.17
+PRE,VGG16,"[CW, AUG]",0.25
+PRE,ResNet50,"[TL, CW, AUG]",0.17
+PRE,MobileNet,[],0.33
+PRE,ResNet18,"[TL, AUG]",0.42
+CIR,ANN,"[CW]",0.33
+CIR,VGG16,[],0.33
+CIR,ResNet50,"[TL, AUG]",0.17
+CIR,MobileNet,"[CW]",0.25
+CIR,ResNet18,"[AUG]",0.25

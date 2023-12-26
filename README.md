@@ -45,6 +45,14 @@ Machine Learning in materno-fetal ultrasound images for early detection of late-
 ***************
 ## Results
 
+| Criteria | Max Sensitivity | AUC  | F1-Score Pos Class | Accuracy | Specificity | PPV  | NPV  | PLR   | NLR   |
+|----------|------------------|------|---------------------|----------|--------------|------|------|-------|-------|
+| LBW or CIR or PRE       | 0.36             | 0.60 | 0.33                | 0.69     | 0.79         | 0.31 | 0.82 | 1.64  | 0.83  |
+| Birth weight percentile < 10 (LBW)      | 0.29             | 0.53 | 0.27                | 0.77     | 0.86         | 0.27 | 0.86 | 1.96  | 0.84  |
+| Preeclampsia (PRE)      | 0.56             | 0.76 | 0.53                | 0.96     | 0.99         | 0.67 | 0.97 | 34.67 | 0.56  |
+| Fetal Growth Restriction (CIR)     | 0.33             | 0.55 | 0.29                | 0.91     | 0.96         | 0.33 | 0.94 | 6.42  | 0.78  |
+
+
 | Criteria                                     | AUC  | F1-Score PoC | Accuracy | Sensitivity | Specificity | PPV   | NPV   | PLR   | NLR   |
 |---------------------------------------------------|------|--------------|----------|-------------|-------------|-------|-------|-------|-------|
 | Birth weight percentile < 10 (LBW)                         |0.79	| 0.42 |	0.93	| 0.33	| 0.98	| 0.57	| 0.95	| 17	| 0.68 |

@@ -20,7 +20,7 @@ Machine Learning in materno-fetal ultrasound images for early detection of late-
 * **Xavier Paolo Burgos Artizzu** - [xburgosa@uoc.edu](mailto:xburgosa@uoc.edu)
 
 ***************
-* [Report (X pages)](http:...)
+* [Report (101 pages)](http:...)
 * [Slides (24 slides)](https://github.com/gwendysyd/Placenta-Insufficiency-Classification/blob/master/docs/Slides.pdf)
 ***************
 

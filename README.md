@@ -21,7 +21,7 @@ Machine Learning in materno-fetal ultrasound images for early detection of late-
 
 ***************
 * [Report (X pages)](http:...)
-* [Slides (X slides)](https://github.com/gwendysyd/Placenta-Insufficiency-Classification/blob/master/doc/...pdf)
+* [Slides (24 slides)](https://github.com/gwendysyd/Placenta-Insufficiency-Classification/blob/master/docs/Slides.pdf)
 ***************
 
 #### Experiments:
